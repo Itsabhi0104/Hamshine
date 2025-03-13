@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hamshineelectronics.co.in/sitemap.xml
+
+# Disallow admin or private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+
