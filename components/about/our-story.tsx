@@ -10,9 +10,7 @@ export default function OurStory() {
             <h2 className="text-3xl font-bold mb-6">OUR STORY</h2>
             <div className="space-y-4 text-gray-600">
               <p>
-                Hamshine Electronics & Energy Systems is a leading provider of solar energy solutions in West Bengal. We
-                specialize in the design, supply, installation, and maintenance of solar power systems for residential,
-                commercial, and industrial applications.
+              Hamshine Electronics & Energy Systems, founded in 1982, is a Manufacturer and Trader of a comprehensive range of Solar Power Pack, Garden Lighting systems, Solar Home Lighting systems, LED Solar Street lights, and other products. We make our goods with high raw materials sourced from recognised marketplace vendors. We offer these products at competitive prices and deliver them within the time range specified.
               </p>
               <p>
                 Founded with a vision to promote clean and renewable energy, we have been serving customers across West
